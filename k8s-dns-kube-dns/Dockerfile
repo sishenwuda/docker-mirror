@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/k8s-dns-kube-dns:1.14.13
-MAINTAINER wimas
+MAINTAINER wimas <27965425@qq.com>
